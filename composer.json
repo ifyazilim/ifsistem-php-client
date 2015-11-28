@@ -1,0 +1,21 @@
+{
+  "name": "ifyazilim/ifsistem-php-client",
+  "description": "ifsistem'in php client projesidir.",
+  "require": {
+    "nategood/httpful": "^0.2.20",
+    "illuminate/support": "^5.1",
+    "symfony/var-dumper": "^2.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "IFSistemClient\\": "src/IFSistemClient"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "İrfan Evrens",
+      "email": "irfanevrens@gmail.com"
+    }
+  ]
+}
